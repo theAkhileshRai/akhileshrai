@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Akhilesh Rai
+    tagline: Research Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: rai.akhilesh@outlook.com
+    phone: 8056509197
+    website:  #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: theakhileshrai
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@theakhileshrai'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,17 +28,17 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Hindi
+        level: Native
 
-      - idiom: Spanish
+      - idiom: Telugu
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Gymming
         link:
 
-      - item: Snowboarding
+      - item: Running
         link:
 
       - item: Cooking
